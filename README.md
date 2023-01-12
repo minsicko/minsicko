@@ -9,8 +9,8 @@
 
 <div align="center">
   
-<a href="">![html5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=white)</a>
-<a href="">![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white)</a>
+<a href="">![html5](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)</a>
+<a href="">![CSS3](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=CSS3&logoColor=white)</a>
 
 <a href="">![Javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=white)</a>
 <a href="">![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=white)</a>
@@ -23,6 +23,9 @@
 
 <a href="">![git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)</a>
 <a href="">![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)</a>
+  
+<a href="">![AmazonAWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=AmazonAWS&logoColor=white)</a>
+
 </div>
 
 <!---
