@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @minsicko
 
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="700" height="400" />
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="700" height="400" style="align-items:center"/>
 
 ### 🔨 SKILLS
 ![Javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=white)
