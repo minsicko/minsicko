@@ -1,19 +1,13 @@
-- 👋 Hi, I’m @minsicko
+## 👋 Hi, I’m @minsicko
 
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="700" height="400" />
 
-## STACK  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="js" alt="JavaScript" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="nodejs" alt="Node.js" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="mysql" alt="MySQL" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="express" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="github" alt="Git" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="aws" alt="AWS" height="50" /></a>  
-<a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="nuxt" alt="Nuxt JS" height="50" /></a>  
-</div>
-  
-</td><td valign="top" width="33%">
+### 🔨 SKILLS
+![Javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=Javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=white)
 
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=white)
 
 <!---
 minsicko/minsicko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
