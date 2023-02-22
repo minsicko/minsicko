@@ -1,11 +1,11 @@
-<h2 align="center"> 👋 Hi, I’m @minsicko </h2>
+<h2 align="center"> 👋 Hi, I’m Minsik </h2>
 
 <p align="center">
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="700" height="400" style="align-items:center"/>
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="500" height="300" style="align-items:center"/>
 </p>
 
   
-<h2> 🔨 SKILLS </h2>
+<!-- <h2> 🔨 SKILLS </h2>
 
 <div align="center">
   
@@ -26,7 +26,7 @@
   
 <a href="">![AmazonAWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=AmazonAWS&logoColor=white)</a>
 
-</div>
+</div> -->
 
 <!---
 minsicko/minsicko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
